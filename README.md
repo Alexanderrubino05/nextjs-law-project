@@ -2,15 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-<div>
+<span>
 **Title**\n
 **test...**
-</div>
+</span>
 
-<div>
+<span>
 **Title**\n
 **test...**
-</div>
+</span>
 
 
 First, run the development server:
